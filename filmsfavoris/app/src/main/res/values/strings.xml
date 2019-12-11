@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">FilmsFavoris</string>
+    <string name="films_populaires">Films Favoris</string>
+    <string name="date_released">Date Sortie</string>
+    <string name="film_genre">Genre</string>
+    <string name="film_pays">Pays</string>
+    <string name="film_desc">Description</string>
+    <string name="release_date">Lancé le</string>
+    <string name="film_duree">Durée</string>
+
+    <string name="film_pas">Pays</string>
+    <string name="details">Details</string>
+</resources>

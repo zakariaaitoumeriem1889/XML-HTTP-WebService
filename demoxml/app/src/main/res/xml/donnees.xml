@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<users>
+        <Id>01</Id>
+        <nom>Mohamed</nom>
+        <prenom>ouaali</prenom>
+        <adress>Marrakech</adress>
+    <Id>02</Id>
+    <nom>kahlid</nom>
+    <prenom>zitoni</prenom>
+    <adress>Rabat</adress>
+</users>
